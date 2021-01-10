@@ -1,0 +1,2 @@
+#!/bin/rc
+portmk -e PKG_CONFIG'='false make install YACC'='bison
